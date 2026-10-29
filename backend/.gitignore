@@ -1,0 +1,14 @@
+
+# Configurações locais com credenciais
+application-local.yml
+.env
+.env.*
+!.env.example
+
+# Java e Maven
+target/
+*.class
+
+# IDEs
+.idea/
+.vscode/
