@@ -25,7 +25,8 @@ export const JOGOS: Record<string, Jogo> = {
   vestuario: {
     slug: 'vestuario', titulo: 'Vestuário Divas S.I', emoji: '👗', pasta: 'vestuario', endpoint: 'avatar/vestir',
     baseLayer: 'boneca-base', baseNome: 'Avatar', painel: 'Guarda-roupa', colunas: 3,
-    z: ['boneca-base', 'boneca-com-vestido', 'boneca-com-calca', 'boneca-com-blusa', 'boneca-com-casaco', 'boneca-com-bone'],
+    // ordem de empilhamento dos SVGs (de baixo para cima); nomes iguais aos que o back devolve
+    z: ['boneca-base', 'roupa-vestido', 'roupa-calca', 'roupa-blusa', 'roupa-casaco', 'roupa-bone'],
     itens: [
       { id: 'vestido', nome: 'Vestido', emoji: '👗' }, { id: 'calca', nome: 'Calça', emoji: '👖' },
       { id: 'blusa', nome: 'Blusa', emoji: '👚' }, { id: 'casaco', nome: 'Casaco', emoji: '🧥' },
