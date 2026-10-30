@@ -5,7 +5,7 @@ Dois joguinhos para entender, na prática, o padrão de projeto **Decorator**:
 - **Café de BSI**: monte um café e vá adicionando ingredientes (chantilly, leite, chocolate, cacau, creme de avelã).
 - **Vestuário Divas S.I**: vista uma boneca com peças e acessórios (blusa, calça, vestido, casaco, boné).
 
-Trabalho para a disciplina de **PROO**, feito por **Bárbara, Kalline, Samyra e Vivian**.
+Trabalho para a disciplina de **PROO**, feito por **Vivian**.
 
 > **Aviso importante:** este projeto **não é de autoria humana original**. Ele foi **criado com o auxílio de Inteligência Artificial** com o objetivo de **entender o design pattern Decorator**, representando-o de forma **visual** (frontend) e **lógica** (backend em Java).
 
